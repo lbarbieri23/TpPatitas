@@ -1,0 +1,9 @@
+--- PREGUNTAS SOBRE ENUNCIADO
+    Con calidad de la foto a que se refiere, que parametros deberiamos tener en cuenta. ¿Hay que implementar algo de esto en alguna entrega?
+    Al adoptar se elige en que organizacion publicar
+
+
+
+
+
+

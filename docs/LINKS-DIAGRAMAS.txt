@@ -1,0 +1,4 @@
+- DIAGRAMA DE CLASES
+    https://lucid.app/lucidchart/invitations/accept/inv_4370b0de-f620-4c74-8f45-a398a98b1900
+- DIAGRAMAS DE SECUENCIA
+    https://lucid.app/lucidchart/invitations/accept/inv_fc50e2a7-8a48-44ef-a366-e8bd0721a970?viewport_loc=-136%2C-142%2C2778%2C1270%2C0_0
